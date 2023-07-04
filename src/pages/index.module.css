@@ -3,9 +3,13 @@
 }
 
 .todoContainer {
-	@apply container mx-auto;
+	@apply container mx-auto px-20;
 }
 
 .title {
-	@apply text-2xl;
+	@apply text-4xl font-bold;
+}
+
+.divider {
+	@apply divide-x-2 divide-gray-200 my-4 mt-10;
 }

@@ -1,0 +1,12 @@
+{
+	"recommendations": [
+		"formulahendry.auto-rename-tag",
+		"ms-azuretools.vscode-docker",
+		"mikestead.dotenv",
+		"graphql.vscode-graphql",
+		"esbenp.prettier-vscode",
+		"prisma.prisma",
+		"bradlc.vscode-tailwindcss",
+		"figma.figma-vscode-extension"
+	]
+}
